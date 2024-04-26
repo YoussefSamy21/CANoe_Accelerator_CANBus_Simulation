@@ -7,12 +7,13 @@ Using Vector CANoe popular tool (demo version), this Project is about Simulating
 
 **ECU2**: Changes the speed according to the status of the accelerator pedal.
 
-## CANoe Simulation 
-
-![CANoe_Simulation_Video](https://github.com/YoussefSamy21/CANoe_Accelerator_CANBus_Simulation/blob/main/CANoe_Simulation_Video.gif)
-
 ## Skills Acquired
 - Writing CAPL script for each ECU.
 - Creating a Database using CANdb to add my ECUs, Messages, Signals.
 - Creating a simple GUI, allowing to interact with tha data on CAN Bus. 
 - Getting Familiar with Vector CANoe popular tool.
+
+## CANoe Simulation 
+
+![CANoe_Simulation_Video](https://github.com/YoussefSamy21/CANoe_Accelerator_CANBus_Simulation/blob/main/CANoe_Simulation_Video.gif)
+
