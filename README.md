@@ -2,13 +2,14 @@
 Using Vector CANoe popular tool (demo version), this Project is about Simulating 2 ECUs using CAN Protocol, providing communication between an Accelerator Pedal and a Speedometer. 
 
 ![Simulation_screenshot](https://github.com/YoussefSamy21/CANoe_Accelerator_CANBus_Simulation/blob/main/Simulation_screenshot.PNG)
-![Panel_screenshot](https://github.com/YoussefSamy21/CANoe_Accelerator_CANBus_Simulation/blob/main/Panel_screenshot.PNG)
 
 **ECU1**: Periodically checks if the accelerator pedal is pressed, then sends the status of the accelerator to ECU2.  
 
 **ECU2**: Changes the speed according to the status of the accelerator pedal.
 
 ## CANoe Simulation 
+
+![CANoe_Simulation_Video](https://github.com/YoussefSamy21/CANoe_Accelerator_CANBus_Simulation/blob/main/CANoe_Simulation_Video.gif)
 
 ## Skills Acquired
 - Writing CAPL script for each ECU.
